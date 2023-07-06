@@ -8,3 +8,4 @@ The system allows passengers to view train schedules, reserve seats, and pay for
 
 The Metro Reservation System (biometric based) not only enhances the overall passenger experience but also increases the efficiency and revenue of the metro service provider. The system reduces the workload for metro employees, allowing them to focus on other aspects of providing quality service to passengers. This innovative system is a step towards a more efficient and sustainable public transportation system.
 
+Refer METRO RESERVATION SYSTEM REPORT to resolve any further queries.
